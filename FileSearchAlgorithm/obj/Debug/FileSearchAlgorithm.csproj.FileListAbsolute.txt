@@ -1,0 +1,6 @@
+D:\MyGitHub\FileSearchAlgorithm\FileSearchAlgorithm\bin\Debug\FileSearchAlgorithm.exe.config
+D:\MyGitHub\FileSearchAlgorithm\FileSearchAlgorithm\bin\Debug\FileSearchAlgorithm.exe
+D:\MyGitHub\FileSearchAlgorithm\FileSearchAlgorithm\bin\Debug\FileSearchAlgorithm.pdb
+D:\MyGitHub\FileSearchAlgorithm\FileSearchAlgorithm\obj\Debug\FileSearchAlgorithm.csprojResolveAssemblyReference.cache
+D:\MyGitHub\FileSearchAlgorithm\FileSearchAlgorithm\obj\Debug\FileSearchAlgorithm.exe
+D:\MyGitHub\FileSearchAlgorithm\FileSearchAlgorithm\obj\Debug\FileSearchAlgorithm.pdb
